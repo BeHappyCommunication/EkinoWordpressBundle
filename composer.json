@@ -1,5 +1,5 @@
 {
-    "name": "ekino/wordpress-bundle",
+    "name": "behappy/wordpress-bundle",
     "type": "symfony-bundle",
     "description": "A Symfony bundle to link Symfony with Wordpress",
     "keywords": ["ekino", "bundle", "symfony", "wordpress"],
